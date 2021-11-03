@@ -1,0 +1,80 @@
+body{
+    width: 1024;
+    margin:0;
+}
+header{
+    position: relative;
+    Height:250px;
+    background-color: burlywood;
+    align-content: center;
+}
+#batman_ph{
+    Width:100px;
+    Height:146.37px;
+    margin:auto;
+    display: block;
+    padding-top: 10px;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size:35px;
+    height:60px;
+    letter-spacing: 10px;
+    padding-top: 11px;
+}
+h1,h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+#bruce-info{
+    background: white;
+    height: 800px;
+    padding-top: 100px;
+}
+h2{
+    letter-spacing: 5px;
+    height: 30px;
+    font: 30px;
+
+}
+li{
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    line-height: 35px;
+}
+section{
+    height: 150px;
+}
+footer{
+    background-color: #005677;
+    color:white;
+    text-align: center;
+    height: 67px;
+    position:relative;
+    padding-top: 10px;
+    margin: auto;
+
+}
+
+h3{
+    font-size: 15px;
+    float: left;
+    margin-top: 3px;
+    margin-bottom: 0px;
+
+}
+footer a img{
+    float: right;
+    margin-right: 15px;
+}
+#center_footer{
+    width: 200px;
+    height: auto;
+    padding-top: 10px;
+    margin:auto;
+
+}
