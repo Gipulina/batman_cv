@@ -1,5 +1,9 @@
+html{
+    /*I'm trying to set the suggested width but It doesn't fits with my screen"*/
+    #width:1024px;
+    width:auto;
+}
 body{
-    width: 1024;
     margin:0;
 }
 header{
