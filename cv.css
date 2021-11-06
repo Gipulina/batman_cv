@@ -2,6 +2,7 @@ html{
     /*I'm trying to set the suggested width but It doesn't fits with my screen"*/
     #width:1024px;
     width:auto;
+
 }
 body{
     margin:0;
@@ -10,6 +11,7 @@ header{
     position: relative;
     Height:250px;
     background-color: burlywood;
+    background-image: url("https://www.transparenttextures.com/patterns/tiny-grid.png");
     align-content: center;
 }
 #batman_ph{
@@ -81,4 +83,8 @@ footer a img{
     padding-top: 10px;
     margin:auto;
 
+}
+
+section ul li p{
+    margin-left: 92px;
 }
